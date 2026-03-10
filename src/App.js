@@ -31,9 +31,9 @@ const App = () => {
           </h2>
           <div>
             <img
-              src={`${process.env.PUBLIC_URL}/img/finna.jpg`}
+              src={`${process.env.PUBLIC_URL}/img/finna2.jpg`}
               alt='Featured Project'
-              className='w-20 h-20 object-cover'
+              className='w-60 h-96 object-cover rounded-md'
             />
           </div>
         </div>
@@ -125,13 +125,13 @@ const App = () => {
           <p className='text-xs text-gray-500 mt-2'>© BricksAndCanvas 2021</p>
         </div>
         <div className='flex gap-6 text-xs uppercase tracking-widest text-gray-400 mt-8 md:mt-0'>
-          <a href='#' className='hover:text-white'>
+          <a href='/' className='hover:text-white'>
             Behance
           </a>
-          <a href='#' className='hover:text-white'>
+          <a href='/' className='hover:text-white'>
             Dribbble
           </a>
-          <a href='#' className='hover:text-white'>
+          <a href='/' className='hover:text-white'>
             LinkedIn
           </a>
         </div>
