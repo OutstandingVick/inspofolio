@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'portfolio-bg': '#0a0a0a',
+        'portfolio-bg': '#171123',
         'portfolio-accent': '#ff3b3f',
         'portfolio-main': '#F5B700',
         'portfolio-dain': '#689D00',
